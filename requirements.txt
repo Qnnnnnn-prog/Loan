@@ -1,0 +1,8 @@
+flask
+gunicorn
+replicate
+requests
+sklearn
+imblearn
+pandas
+
